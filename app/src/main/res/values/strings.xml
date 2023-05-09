@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Note Ideas</string>
+    <string name="scroll">scroll</string>
+    <string name="hint_text">Escreva sua anotação</string>
+    <string name="hint_title">Titulo</string>
+    <string name="floating_bottom">floating bottom</string>
+    <string name="title_text">Notes</string>
+    <string name="hint_userId_login">Login</string>
+    <string name="hint_password_login">Senha</string>
+    <string name="button_login">Avançar</string>
+    <string name="sign_up">Cadastrar</string>
+    <string name="sign_out">Sair</string>
+    <string name="same_user">Usuario já cadastrado</string>
+    <string name="login_failed">Login ou Senha Incorreta</string>
+</resources>
